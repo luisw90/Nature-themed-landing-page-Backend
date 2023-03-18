@@ -1,4 +1,4 @@
-# Nature-themed-landing-page-Frontend
+# Nature-themed-landing-page-Backend
 
 This was built in a day for a Hack-Day event. It uses ExpressJS and MongoDB
 the project includes nature facts, images and sounds which are fetched with an api. The frontend was created with Create React App, in Typescript and can be found in a separate repository.
@@ -11,5 +11,3 @@ Each time you visit the site, you'll be presented with unique and stunning anima
 
 This project was a great way for me to combine react and three.js. 
 Looking forward to create more interesting projects similar to this!
-
-# Nature-themed-landing-page-Frontend
