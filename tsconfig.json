@@ -1,0 +1,10 @@
+{
+  "compilerOptions": { 
+    "outDir": "dist", 
+    "lib": [ 
+      "dom" 
+    ], 
+  }, 
+  "include": ["server"],
+  "exclude": ["node_modules"], 
+}
