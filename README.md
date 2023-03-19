@@ -1,5 +1,7 @@
 # Nature-themed-landing-page-Backend
 
+![sand_theme](https://user-images.githubusercontent.com/116962905/226166350-535eed1e-889b-4f9e-b620-76bbfd157170.jpg)
+
 This was built in a day for a Hack-Day event. It uses ExpressJS and MongoDB
 the project includes nature facts, images and sounds which are fetched with an api. The frontend was created with Create React App, in Typescript and can be found in a separate repository.
 
